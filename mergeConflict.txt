@@ -1,1 +1,4 @@
-new merge conflict. Manual solve
+new merge conflict. Manual solve!!
+
+
+This is feature2 changes"This is change from feature1" 
